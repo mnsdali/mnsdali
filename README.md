@@ -27,8 +27,8 @@
 - 📫 Feel free to reach me out **mohamedali.mnassar@gmail.com**
 <!--Intro end-->
 
- <h1 style="text-align: center"> 🧾 Projects </h1>
-<details> <h2> 🚀 Image Caption Generator with CNN and LSTM  </h2>
+ <h1> 🧾 Projects </h1>
+<details> <summary> <h2>🚀 Image Caption Generator with CNN and LSTM </h2> </summary>
   <span>
     <p> 🔘 This Python-based project aims to build an image caption generator by implementing Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) models. The CNN extracts image features from the Xception model, while the LSTM generates image captions.</p>
 
