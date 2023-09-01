@@ -28,7 +28,7 @@
 <!--Intro end-->
 
  <h1 align="center"> 🧾 Projects </h1>
-<details> <summary align="center"> <h2>🚀 Image Caption Generator with CNN and LSTM </h2> </summary>
+<details> <summary> <h2>🚀 Image Caption Generator with CNN and LSTM </h2> </summary>
   <span>
     <p> 🔘 This Python-based project aims to build an image caption generator by implementing Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) models. The CNN extracts image features from the Xception model, while the LSTM generates image captions.</p>
 
@@ -72,7 +72,7 @@
 </ul>
   </span>
 </details>
-<details> <summary align="center"> <h2> 🚀 Project SAV : ↗️ External & ↘️ Internal(to be extended) Customer Service Platform </h2> </summary>
+<details> <summary> <h2> 🚀 Project SAV : ↗️ External & ↘️ Internal(to be extended) Customer Service Platform </h2> </summary>
   <span>
   <p> 🔘 This project showcases a sophisticated Customer Service System built with PHP and Laravel. It offers effortless management of product information, QR code generation for various purposes, streamlined customer claim submissions, and real-time notifications for administrators, customers, and technicians. Explore our features to enhance your customer service workflow.</p>
 
