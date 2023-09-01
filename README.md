@@ -72,6 +72,7 @@
 </ul>
   </span>
 </details>
+<hr>
 <details> <summary> <h4> 🚀 Project SAV : ↗️ External & ↘️ Internal(to be extended) Customer Service Platform </h4> </summary>
   <span>
   <p> 🔘 This project showcases a sophisticated Customer Service System built with PHP and Laravel. It offers effortless management of product information, QR code generation for various purposes, streamlined customer claim submissions, and real-time notifications for administrators, customers, and technicians. Explore our features to enhance your customer service workflow.</p>
@@ -115,7 +116,7 @@
 </ul>
   </span>
 </details>
-
+<hr>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
