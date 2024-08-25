@@ -12,13 +12,12 @@
 <div id="user-content-toc">
   <ul>
     <summary><h2 style="display: inline-block">When you arise in the morning, think of what a precious privilege it is to be alive – to breathe, to think, to enjoy, to love.</h2>
-    <h2 style="display: inline-block">½ 𝒚𝒆𝒂𝒓 𝒐𝒇 𝒆𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 🤵⚡️</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-<h2 style="text-align: center"> **𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑 👨🏻‍💻 with enthusiasm to pursue careers in ☁️ 𝗖𝗟𝗢𝗨𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗛𝗧𝗨𝗥𝗘  / 🧠 𝗗𝗘𝗘𝗣 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚.** </h2>
+<h2 style="text-align: center"> **DevOps/CLOUD 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑 👨🏻‍💻 with enthusiasm to pursue careers in ☁️ 𝗖𝗟𝗢𝗨𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗛𝗧𝗨𝗥𝗘  / 🧠.** </h2>
 
 - 🌱 I’m currently learning **how to be a successful, not the technology itself**
 
