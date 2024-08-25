@@ -50,6 +50,8 @@
 <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions%20-%231572B6.svg?logo=githubactions&logoColor=white">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23006400.svg?logo=mongodb&logoColor=white">
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure%20-%2300008B.svg?logo=microsoftazure&logoColor=white">
+    
   </p>
 </span>
 </details>
