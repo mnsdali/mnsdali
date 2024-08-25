@@ -28,6 +28,31 @@
 
  <h1 align="center"> 🧾 Projects </h1>
  <hr>
+<details> <summary> <h2> 🚀 SeekMake </h2> </summary>
+<span>
+    <p>
+      SeekMake is an innovative SaaS platform designed to empower individuals and companies in launching or expanding their manufacturing businesses. Leveraging advanced automation tools and AI, SeekMake revolutionizes the manufacturing landscape by providing essential support for seamless operations and business growth.
+    </p>
+  <ul>
+    <h2> - 💡 What I accomplished there </h2>
+      <li> 🟡 Deployment of more than 2 Web Applications to Azure WebApps and Azure Kubernetes Services</li>
+      <li> 🟡 CI/CD using Self-hosted runners deployed in kubernetes and Monitoring of 5 different github monorepositories and Cloud Storage in the ecosystem of seekmake</li>
+      <li> 🟡 Management of Secrets, TLS Encryption of FQDNs.</li>
+    <li> 🟡 K8S Deployment of MongoDB with replication, back-up, restore and enhanced security for public access.</li>
+    <li> 🟡 Hands-on Administration and Security reinforcement for Azure Resources and Tenants using Azure Best Practices ( Azure NSGs, Firewall, VPN Gateways, Bastions... )</li>
+    <li> 🟡 Integrating Prerendering Service in K8S and applying SEO Best Practices to main project to ensure a better live experience for users and ensure better crawling for the website.</li>
+    <li> 🟡 Weekly log reports generation to investigate websites traffic looking for any suspicious records.</li>
+    <li> 🟡 Supervision and recommendation proposals to give interns insights of what should be accomplished.</li>
+  <ul>
+  <p>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%231572B6.svg?logo=kubernetes&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker%20-%231572B6.svg?logo=docker&logoColor=white">
+<img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions%20-%231572B6.svg?logo=githubactions&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23006400.svg?logo=mongodb&logoColor=white">
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
+  </p>
+</span>
+</details>
 <details> <summary> <h2> 🚀 Project SAV : ↗️ External & ↘️ Internal(to be extended) Customer Service Platform </h2> </summary>
   <span>
   <p> 🔘 This project showcases a sophisticated Customer Service System built with PHP and Laravel. It offers effortless management of product information, QR code generation for various purposes, streamlined customer claim submissions, and real-time notifications for administrators, customers, and technicians. Explore our features to enhance your customer service workflow.</p>
